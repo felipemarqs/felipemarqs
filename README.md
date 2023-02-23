@@ -77,6 +77,8 @@ Um projeto FullsStack focado na criação de um ADMIN Dashboard construido em:
 #### **[REACTGRAM](https://github.com/felipemarqs/reactgram)**
 Um projeto FullStack onde criei uma aplicação baseada no instagram: Uma rede social para o compartilhamento de fotos. Foram utilizadas tecnologias como: 
 
+> ## FRONTEND
+
 * Reactjs _Biblioteca  JS Frontend_
 * Redux Toolkit  _Gerenciamento de estados_
 * Styled Components _Estilização_
