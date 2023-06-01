@@ -4,7 +4,7 @@
 
 Olá, meu nome é Felipe, tenho 23 anos e sou um desenvolvedor apaixonado por resolver problemas com programação. 👨‍💻
 
-Meu primeiro contato com a programação foi em 2018 quando fiz o curso técnico em Analise e Desenvolvimento de Sistemas no SENAI. No trabalho apesar de atuar na área da logística utilizando o EXCEL para o desenvolvimento de interfaces gráficas e lógica, sempre usei da programação para a resolução de problemas.
+Meu primeiro contato com a programação foi em 2018 quando fiz o curso técnico em Analise e Desenvolvimento de Sistemas no SENAI.
 
 Minha experiência inclui o uso de diversas tecnologias, como React, JavaScript, Node.js, TypeScript, NoSQL, SQL, Docker, MUI e Redux.
 Ao longo da minha trajetória de estudos, realizei diversos projetos que me permitiram aprimorar minhas habilidades e contribuir com soluções efetivas.
