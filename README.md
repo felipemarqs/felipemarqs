@@ -4,16 +4,11 @@
 
 Olá, meu nome é Felipe, tenho 23 anos e sou um desenvolvedor apaixonado por resolver problemas com programação. 👨‍💻
 
-Meu primeiro contato com a programação foi em 2018 quando fiz o curso técnico em Analise e Desenvolvimento de Sistemas no SENAI.
+Meu primeiro contato com a programação foi em 2018, quando fiz o curso técnico em Análise e Desenvolvimento de Sistemas no SENAI. Em 2024, concluí minha formação em Análise e Desenvolvimento de Sistemas, e desde então tenho atuado como Desenvolvedor FullStack.
 
-Minha experiência inclui o uso de diversas tecnologias, como React, JavaScript, Node.js, TypeScript, NoSQL, SQL, Docker, MUI e Redux.
-Ao longo da minha trajetória de estudos, realizei diversos projetos que me permitiram aprimorar minhas habilidades e contribuir com soluções efetivas.
+Minha experiência inclui o uso de diversas tecnologias, como React, AWS, Node.js, TypeScript, NoSQL, SQL, Docker, MUI e Redux. Ao longo da minha trajetória, realizei diversos projetos que me permitiram aprimorar minhas habilidades e contribuir com soluções efetivas.
 
-Sinta-se à vontade para entrar em contato e saber mais sobre minhas habilidades e experiências.
-
-Hoje estou em formação no curso de Análise de Desenvolvimento de Sistemas com previsão de termino em 2024.
-
-Quer conhecer um pouco mais sobre mim e sobre minha trajetória de estudos?
+Sinta-se à vontade para entrar em contato e saber mais sobre minhas habilidades e experiências. Vamos conversar sobre como posso ajudar no seu próximo projeto!
 
 **[Linkedin](https://www.linkedin.com/in/felipe-marqs/)**
 
