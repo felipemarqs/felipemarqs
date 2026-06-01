@@ -2,64 +2,64 @@
 
 **Full Stack Software Engineer | AI-native Applications | RAG | LLM Workflows | TypeScript | Node.js | AWS**
 
-Sou engenheiro de software com atuação end-to-end em produto, arquitetura, frontend, backend, cloud e sustentação. Minha experiência mais forte está na construção e evolução de sistemas internos críticos, transformando regras operacionais complexas em software confiável, observável e escalável.
+I am a software engineer with end-to-end experience across product development, architecture, frontend, backend, cloud, and production support. My strongest experience comes from building and evolving critical internal systems, turning complex operational rules into reliable, observable, and scalable software.
 
-Atualmente, estou direcionando minha carreira para **AI-native Software Engineering / AI Platform Engineering**, com foco especial em **RAG applications**, tool/function calling, workflows com LLMs, automação de engenharia, qualidade de respostas e segurança aplicada a sistemas com IA.
+I am currently focused on **AI-native Software Engineering / AI Platform Engineering**, with special emphasis on **RAG applications**, tool/function calling, LLM workflows, engineering automation, response quality, and security for AI-powered systems.
 
 **[LinkedIn](https://www.linkedin.com/in/felipe-marqs/)**
 
-## Sobre mim
+## About Me
 
-- Atuo na construção e evolução de produtos internos com alto acoplamento entre regra de negócio, operação, dados e UX.
-- Trabalho de ponta a ponta: discovery, modelagem, frontend, integrações, backend, debugging, deploy e sustentação.
-- Tenho experiência prática lidando com sistemas que exigem autorização fina, rastreabilidade, auditoria, validações complexas e operação contínua.
-- Meu foco profissional hoje é unir base forte de engenharia de software com aplicações modernas orientadas a IA.
+- I work on the design, development, and evolution of internal products with strong coupling between business rules, operations, data, and UX.
+- I operate end-to-end across discovery, modeling, frontend, integrations, backend, debugging, deployment, and ongoing support.
+- I have hands-on experience with systems that require fine-grained authorization, traceability, auditability, complex validation, and continuous operation.
+- My current professional focus is combining strong software engineering fundamentals with modern AI-native applications.
 
-## Principal experiência profissional
+## Main Professional Experience
 
-### Plataforma operacional e de gestão empresarial (projeto privado)
+### Mission-critical operational and management platform (private project)
 
-Hoje, meu trabalho mais representativo está na construção e evolução de uma plataforma corporativa de missão crítica, desenvolvida e mantida com alto nível de ownership técnico. Esse sistema não cobre apenas gestão de sondas: ele centraliza fluxos operacionais, governança, faturamento, inspeções, segurança, qualidade e acompanhamento gerencial.
+My most representative work today is the development and evolution of a mission-critical enterprise platform, built and maintained with a high level of technical ownership. This system goes far beyond a simple operational dashboard and supports multiple internal workflows across operations, governance, inspection, quality, security, and management visibility.
 
-Tecnicamente, esse sistema envolve:
+From a technical perspective, this system involves:
 
-- frontend em React e TypeScript com formulários complexos, dashboards e fluxos operacionais críticos
-- backend orientado a APIs, integrações e regras de negócio complexas
-- autenticação e autorização com RBAC por módulo e ACL por escopo operacional
-- upload e gerenciamento de arquivos com rastreabilidade e controle de acesso
-- validações avançadas de estado, consistência de payload e regras condicionais de interface
-- observabilidade, debugging de produção e sustentação contínua
-- integração entre frontend, backend serverless, banco de dados e serviços AWS
-- evolução arquitetural de produto interno com foco em confiabilidade, rastreabilidade e manutenção
+- React and TypeScript frontend development with complex forms, dashboards, and critical operational workflows
+- API-driven backend integrations with complex business rules
+- authentication and authorization using module-level RBAC and scope-based ACL
+- file upload and file management flows with traceability and access control
+- advanced state validation, payload consistency, and conditional UI rules
+- observability, production debugging, and continuous support
+- integration between frontend, serverless backend, databases, and AWS services
+- architectural evolution of an internal product with strong focus on reliability, traceability, and maintainability
 
-Nesse contexto, atuo em responsabilidades como:
+In this context, I am responsible for:
 
-- evolução funcional e técnica do produto
-- construção do frontend em React e TypeScript
-- integração com APIs e contratos de backend
-- tradução de regras operacionais complexas em software
-- correção de bugs de produção com impacto real no negócio
-- melhoria de UX, validações, consistência de estado e confiabilidade do sistema
-- acompanhamento de deploys, ajustes de arquitetura e sustentação ponta a ponta
+- product and technical evolution
+- frontend development in React and TypeScript
+- API integration and backend contract alignment
+- translating complex operational rules into software
+- fixing production issues with real business impact
+- improving UX, validation logic, state consistency, and overall system reliability
+- following deployments, architectural adjustments, and end-to-end support
 
-## Foco atual em AI-native Software Engineering
+## Current Focus on AI-native Software Engineering
 
-Estou aprofundando minha atuação em aplicações com IA com uma abordagem de engenharia, e não apenas de uso de ferramentas prontas. Meu objetivo é construir sistemas com IA que sejam úteis, seguros, mensuráveis e preparados para produção.
+I am deepening my work in AI applications with an engineering-first approach, not just by using off-the-shelf tools. My goal is to build AI systems that are useful, secure, measurable, and production-ready.
 
-Hoje, meu foco principal está em:
+My current focus includes:
 
 - RAG applications
 - tool/function calling
-- workflows com LLMs
-- agentes com limites de autonomia
-- evals e regressão de comportamento
-- observabilidade de aplicações com IA
-- segurança para sistemas com LLMs
-- automação de engenharia e developer productivity
+- LLM workflows
+- agents with controlled autonomy
+- evals and behavioral regression
+- observability for AI applications
+- security for LLM-based systems
+- engineering automation and developer productivity
 
-Tenho interesse especial em construir plataformas internas com IA para consulta de conhecimento, execução controlada de ações, recuperação de contexto com fontes e integração com fluxos reais de produto.
+I am especially interested in building internal AI platforms for knowledge retrieval, controlled action execution, source-grounded context retrieval, and integration with real product workflows.
 
-## Stack principal
+## Core Stack
 
 ### Frontend
 
@@ -70,64 +70,65 @@ Tenho interesse especial em construir plataformas internas com IA para consulta 
 - TanStack Query
 - React Hook Form
 - Zod
-- componentes orientados a produto interno, formulários complexos, dashboards e fluxos com autorização
+- internal product-oriented components, complex forms, dashboards, and permission-aware workflows
 
-### Backend e cloud
+### Backend & Cloud
 
 - Node.js
-- APIs REST
-- arquitetura serverless
+- REST APIs
+- serverless architecture
 - AWS Lambda
 - API Gateway
 - Amazon Cognito
 - S3
 - SQS
 - SES
-- autenticação, autorização, filas, integrações e processamento assíncrono
+- authentication, authorization, queues, integrations, and asynchronous processing
 
-### Dados
+### Data
 
 - PostgreSQL
 - SQL
 - MongoDB
-- modelagem orientada a regras de negócio
-- trilhas de auditoria, permissão e rastreabilidade
+- business-rule-oriented data modeling
+- audit trails, permissions, and traceability
 
-### IA
+### AI
 
 - RAG
 - function calling
-- arquitetura de aplicações com LLM
-- evals e qualidade de respostas
-- segurança aplicada a sistemas com IA
-- automação de workflows de engenharia
+- LLM application architecture
+- evals and response quality
+- security for AI-powered systems
+- engineering workflow automation
 
-## Repositórios públicos
+## Public Repositories
 
-Grande parte dos repositórios públicos deste perfil representa uma fase anterior de estudos, experimentação e consolidação de base. Eles continuam fazendo parte da minha trajetória, mas não representam sozinhos o nível de complexidade dos sistemas com os quais trabalho hoje.
+Most of the public repositories in this profile represent an earlier phase of study, experimentation, and fundamentals-building. They are still part of my journey, but they no longer represent the full complexity of the systems I work on today.
 
-Alguns projetos públicos relevantes da minha jornada:
+Some relevant public projects from my journey:
 
-- **[Waitter App](https://github.com/felipemarqs/waitter-app)**: sistema full stack com interface web e app mobile para fluxo de pedidos em restaurante.
-- **[React MERN Dashboard](https://github.com/felipemarqs/fullstack-dashboard)**: dashboard administrativo full stack com foco em visualização de dados.
-- **[Reactgram](https://github.com/felipemarqs/reactgram)**: aplicação full stack inspirada em rede social para compartilhamento de imagens.
+- **[Waitter App](https://github.com/felipemarqs/waitter-app)**: full stack system with a web interface and mobile app for restaurant order flow.
+- **[React MERN Dashboard](https://github.com/felipemarqs/fullstack-dashboard)**: full stack admin dashboard focused on data visualization.
+- **[Reactgram](https://github.com/felipemarqs/reactgram)**: full stack social-style application for image sharing.
 
-## Posicionamento atual
+## Current Positioning
 
-Hoje, meu posicionamento profissional está mais próximo de:
+Today, my professional positioning is closest to:
 
-> **Software Engineer com atuação full stack e especialização em AI-native applications, RAG, LLM workflows, arquitetura e developer productivity.**
+> **Software Engineer with full stack experience and specialization in AI-native applications, RAG, LLM workflows, architecture, and developer productivity.**
 
-Meu diferencial está em combinar:
+What differentiates me is the combination of:
 
-- base sólida de engenharia de software
-- experiência prática em produto real e operação
-- ownership técnico de ponta a ponta
-- capacidade de traduzir regras complexas em sistemas utilizáveis
-- evolução intencional para aplicações com IA em contexto de produção
+- strong software engineering fundamentals
+- hands-on experience with real products and operational environments
+- end-to-end technical ownership
+- the ability to translate complex rules into usable systems
+- an intentional move toward production-grade AI applications
 
-## Vamos conversar
+## Let's Connect
 
-Se você trabalha com produtos internos, aplicações orientadas a workflow, plataformas operacionais, arquitetura full stack ou AI-native software engineering, fico feliz em trocar ideia.
+If you work with internal products, workflow-driven applications, operational platforms, full stack architecture, or AI-native software engineering, I would be happy to connect.
 
 - **LinkedIn:** [felipe-marqs](https://www.linkedin.com/in/felipe-marqs/)
+
