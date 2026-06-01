@@ -1,94 +1,133 @@
 # Felipe Marques
 
-### Olá! Sejam bem vindos ao meu GitHub! 👋
+**Full Stack Software Engineer | AI-native Applications | RAG | LLM Workflows | TypeScript | Node.js | AWS**
 
-Olá, meu nome é Felipe, tenho 23 anos e sou um desenvolvedor apaixonado por resolver problemas com programação. 👨‍💻
+Sou engenheiro de software com atuação end-to-end em produto, arquitetura, frontend, backend, cloud e sustentação. Minha experiência mais forte está na construção e evolução de sistemas internos críticos, transformando regras operacionais complexas em software confiável, observável e escalável.
 
-Meu primeiro contato com a programação foi em 2018, quando fiz o curso técnico em Análise e Desenvolvimento de Sistemas no SENAI. Em 2024, concluí minha formação em Análise e Desenvolvimento de Sistemas, e desde então tenho atuado como Desenvolvedor FullStack.
+Atualmente, estou direcionando minha carreira para **AI-native Software Engineering / AI Platform Engineering**, com foco especial em **RAG applications**, tool/function calling, workflows com LLMs, automação de engenharia, qualidade de respostas e segurança aplicada a sistemas com IA.
 
-Minha experiência inclui o uso de diversas tecnologias, como React, AWS, Node.js, TypeScript, NoSQL, SQL, Docker, MUI e Redux. Ao longo da minha trajetória, realizei diversos projetos que me permitiram aprimorar minhas habilidades e contribuir com soluções efetivas.
+**[LinkedIn](https://www.linkedin.com/in/felipe-marqs/)**
 
-Sinta-se à vontade para entrar em contato e saber mais sobre minhas habilidades e experiências. Vamos conversar sobre como posso ajudar no seu próximo projeto!
+## Sobre mim
 
-**[Linkedin](https://www.linkedin.com/in/felipe-marqs/)**
+- Atuo na construção e evolução de produtos internos com alto acoplamento entre regra de negócio, operação, dados e UX.
+- Trabalho de ponta a ponta: discovery, modelagem, frontend, integrações, backend, debugging, deploy e sustentação.
+- Tenho experiência prática lidando com sistemas que exigem autorização fina, rastreabilidade, auditoria, validações complexas e operação contínua.
+- Meu foco profissional hoje é unir base forte de engenharia de software com aplicações modernas orientadas a IA.
 
-### Conhecimento e experiência nas seguintes tecnologias e ferramentas:
+## Principal experiência profissional
 
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50px" height="50px" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" height="50px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px" height="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="50px" height="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="50px" height="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" height="50px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px" height="50px" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="50px" height="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" height="50px" /> 
-    <img src="https://user-images.githubusercontent.com/105378159/188524475-83652b5c-76fa-444e-8c10-faed1d113d7b.png" width="50px" height="50px" />
-</div>
+### Plataforma operacional e de gestão empresarial (projeto privado)
 
+Hoje, meu trabalho mais representativo está na construção e evolução de uma plataforma corporativa de missão crítica, desenvolvida e mantida com alto nível de ownership técnico. Esse sistema não cobre apenas gestão de sondas: ele centraliza fluxos operacionais, governança, faturamento, inspeções, segurança, qualidade e acompanhamento gerencial.
 
-## Principais projetos e atividades
-#### **[WAITTER APP](https://github.com/felipemarqs/waitter-app)**
-Um projeto FullStack onde possui uma interface Web feita em React conectada via API a um aplicativo mobile feito em Reactive Native, simulando um sistema para restaurantes gerenciar os pedidos criando a conxeção entre os garçons (Via App Mobile) e a cozinha (Via SPA) Repositório criado para o projeto "O Poder do Javascript", onde coloquei em prática os conhecimentos em React, React Native, Typescript, NodeJs e mais. 
+Tecnicamente, esse sistema envolve:
 
-> ## FRONTEND
+- frontend em React e TypeScript com formulários complexos, dashboards e fluxos operacionais críticos
+- backend orientado a APIs, integrações e regras de negócio complexas
+- autenticação e autorização com RBAC por módulo e ACL por escopo operacional
+- upload e gerenciamento de arquivos com rastreabilidade e controle de acesso
+- validações avançadas de estado, consistência de payload e regras condicionais de interface
+- observabilidade, debugging de produção e sustentação contínua
+- integração entre frontend, backend serverless, banco de dados e serviços AWS
+- evolução arquitetural de produto interno com foco em confiabilidade, rastreabilidade e manutenção
 
-* Reactjs _Biblioteca  JS Frontend_
-* React Native _Mobile_
-* Typescript _Superset javascript_
-* Styled Components _Estilização_
-* Redux Toolkit  _Gerenciamento de estados_
-* Axios
+Nesse contexto, atuo em responsabilidades como:
 
-> ## BACKEND
+- evolução funcional e técnica do produto
+- construção do frontend em React e TypeScript
+- integração com APIs e contratos de backend
+- tradução de regras operacionais complexas em software
+- correção de bugs de produção com impacto real no negócio
+- melhoria de UX, validações, consistência de estado e confiabilidade do sistema
+- acompanhamento de deploys, ajustes de arquitetura e sustentação ponta a ponta
 
-* MongoDB _Database_
-* Express gerenciamento de _Rotas_
-*Typescript _Superset javascript_
-* Node _JS para server side_
-* Mongoose _ODM para o MongoDB_
-* Dotenv _Criação de váriaveis_
+## Foco atual em AI-native Software Engineering
 
-#### [React MERN Dashboard](https://github.com/felipemarqs/fullstack-dashboard):
-Um projeto FullsStack focado na criação de um ADMIN Dashboard construido em:
+Estou aprofundando minha atuação em aplicações com IA com uma abordagem de engenharia, e não apenas de uso de ferramentas prontas. Meu objetivo é construir sistemas com IA que sejam úteis, seguros, mensuráveis e preparados para produção.
 
-> ## FRONTEND
+Hoje, meu foco principal está em:
 
-* Reactjs _Biblioteca  JS Frontend_
-* Material UI  _Desing e Responsividade_
-* Nivo   _Gráficos_
-* Redux Toolkit  _Gerenciamento de estados_
-* RTK Query 
+- RAG applications
+- tool/function calling
+- workflows com LLMs
+- agentes com limites de autonomia
+- evals e regressão de comportamento
+- observabilidade de aplicações com IA
+- segurança para sistemas com LLMs
+- automação de engenharia e developer productivity
 
-> ## BACKEND
+Tenho interesse especial em construir plataformas internas com IA para consulta de conhecimento, execução controlada de ações, recuperação de contexto com fontes e integração com fluxos reais de produto.
 
-* MongoDB _Database_
-* Express gerenciamento de _Rotas_
-* Node _JS para server side_
-* Mongoose _ODM para o MongoDB_
-* Dotenv _Criação de váriaveis_
+## Stack principal
 
-#### **[REACTGRAM](https://github.com/felipemarqs/reactgram)**
-Um projeto FullStack onde criei uma aplicação baseada no instagram: Uma rede social para o compartilhamento de fotos. Foram utilizadas tecnologias como: 
+### Frontend
 
-> ## FRONTEND
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- TanStack Query
+- React Hook Form
+- Zod
+- componentes orientados a produto interno, formulários complexos, dashboards e fluxos com autorização
 
-* Reactjs _Biblioteca  JS Frontend_
-* Redux Toolkit  _Gerenciamento de estados_
-* Styled Components _Estilização_
+### Backend e cloud
 
-> ## BACKEND
+- Node.js
+- APIs REST
+- arquitetura serverless
+- AWS Lambda
+- API Gateway
+- Amazon Cognito
+- S3
+- SQS
+- SES
+- autenticação, autorização, filas, integrações e processamento assíncrono
 
-* MongoDB _Database_
-* Express gerenciamento de _Rotas_
-* Node _JS para server side_
-* Mongoose _ODM para o MongoDB_
-* Dotenv _Criação de váriaveis_
-* Multer _Envio de imagens_
+### Dados
 
-<div align="center">
-  <a href="https://github.com/felipemarqs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipemarqs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemarqs&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+- PostgreSQL
+- SQL
+- MongoDB
+- modelagem orientada a regras de negócio
+- trilhas de auditoria, permissão e rastreabilidade
+
+### IA
+
+- RAG
+- function calling
+- arquitetura de aplicações com LLM
+- evals e qualidade de respostas
+- segurança aplicada a sistemas com IA
+- automação de workflows de engenharia
+
+## Repositórios públicos
+
+Grande parte dos repositórios públicos deste perfil representa uma fase anterior de estudos, experimentação e consolidação de base. Eles continuam fazendo parte da minha trajetória, mas não representam sozinhos o nível de complexidade dos sistemas com os quais trabalho hoje.
+
+Alguns projetos públicos relevantes da minha jornada:
+
+- **[Waitter App](https://github.com/felipemarqs/waitter-app)**: sistema full stack com interface web e app mobile para fluxo de pedidos em restaurante.
+- **[React MERN Dashboard](https://github.com/felipemarqs/fullstack-dashboard)**: dashboard administrativo full stack com foco em visualização de dados.
+- **[Reactgram](https://github.com/felipemarqs/reactgram)**: aplicação full stack inspirada em rede social para compartilhamento de imagens.
+
+## Posicionamento atual
+
+Hoje, meu posicionamento profissional está mais próximo de:
+
+> **Software Engineer com atuação full stack e especialização em AI-native applications, RAG, LLM workflows, arquitetura e developer productivity.**
+
+Meu diferencial está em combinar:
+
+- base sólida de engenharia de software
+- experiência prática em produto real e operação
+- ownership técnico de ponta a ponta
+- capacidade de traduzir regras complexas em sistemas utilizáveis
+- evolução intencional para aplicações com IA em contexto de produção
+
+## Vamos conversar
+
+Se você trabalha com produtos internos, aplicações orientadas a workflow, plataformas operacionais, arquitetura full stack ou AI-native software engineering, fico feliz em trocar ideia.
+
+- **LinkedIn:** [felipe-marqs](https://www.linkedin.com/in/felipe-marqs/)
